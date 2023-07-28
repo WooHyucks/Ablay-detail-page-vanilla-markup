@@ -2,7 +2,7 @@ body {
   margin: auto;
   max-width: 670px;
   font-family: 'Nanum Gothic', sans-serif;
-  overflow: hidden scroll;
+  overflow-x: hidden;
 }
 
 .sale {
